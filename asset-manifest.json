@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-react-app/static/css/main.c457c405.chunk.css",
+    "main.js": "/test-react-app/static/js/main.058196a1.chunk.js",
+    "main.js.map": "/test-react-app/static/js/main.058196a1.chunk.js.map",
+    "runtime-main.js": "/test-react-app/static/js/runtime-main.44ae9e1b.js",
+    "runtime-main.js.map": "/test-react-app/static/js/runtime-main.44ae9e1b.js.map",
+    "static/js/2.8b469dca.chunk.js": "/test-react-app/static/js/2.8b469dca.chunk.js",
+    "static/js/2.8b469dca.chunk.js.map": "/test-react-app/static/js/2.8b469dca.chunk.js.map",
+    "index.html": "/test-react-app/index.html",
+    "precache-manifest.aa5bfdcfa812bffb59cef596f2b550dc.js": "/test-react-app/precache-manifest.aa5bfdcfa812bffb59cef596f2b550dc.js",
+    "service-worker.js": "/test-react-app/service-worker.js",
+    "static/css/main.c457c405.chunk.css.map": "/test-react-app/static/css/main.c457c405.chunk.css.map",
+    "static/media/bookmarkfilled.png": "/test-react-app/static/media/bookmarkfilled.6a070275.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44ae9e1b.js",
+    "static/js/2.8b469dca.chunk.js",
+    "static/css/main.c457c405.chunk.css",
+    "static/js/main.058196a1.chunk.js"
+  ]
+}
